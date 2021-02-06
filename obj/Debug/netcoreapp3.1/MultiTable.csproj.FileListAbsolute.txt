@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.csproj.CoreCompileInputs.cache
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\bin\Debug\netcoreapp3.1\MultiTable.exe
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\bin\Debug\netcoreapp3.1\MultiTable.deps.json
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\bin\Debug\netcoreapp3.1\MultiTable.runtimeconfig.json
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\bin\Debug\netcoreapp3.1\MultiTable.runtimeconfig.dev.json
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\bin\Debug\netcoreapp3.1\MultiTable.dll
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\bin\Debug\netcoreapp3.1\MultiTable.pdb
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.dll
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.pdb
+c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\MultiTable\obj\Debug\netcoreapp3.1\MultiTable.genruntimeconfig.cache
